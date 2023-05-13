@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @c5huracan
-- 👀 I’m interested in Ethereum and other blockchain development, Solidity and smart contracts, DeFi, ERC20 tokens, Web3, oracles, full stack blockchain development, NFTs / ERC721, Maximal Extractable Value (MEV), and more.
-- 🌱 I’m currently learning Solidity, Web3.py, Brownie, the ganache cli, flashbots
-- 💞️ I’m looking to collaborate on MEV related projects
+- 👀 I’m interested in all manner of emerging technologies but especially Machine Learning and Deep Learning.
+- 🌱 I’m currently learning more about Generative AI, LLM, LangChain, and AutoGPT,
+- 💞️ I’m looking to collaborate on any related projects
 <!---
 - 📫 How to reach me: 
 --->
