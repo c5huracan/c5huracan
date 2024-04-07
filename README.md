@@ -5,6 +5,7 @@
 - 💞️ I am looking to collaborate on any related projects.
 
 [1] Micheli, Vincent, Eloi Alonso, and François Fleuret. "[Transformers are Sample-Efficient World Models](https://arxiv.org/abs/2209.00588)". The Eleventh International Conference on Learning Representations. 2022.
+
 [2] https://github.com/commaai/commavq
 <!---
 - 📫 How to reach me: 
