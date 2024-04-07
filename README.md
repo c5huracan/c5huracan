@@ -1,6 +1,6 @@
 - 👋 Hi, I am @c5huracan
 - 👀 I am interested in all manner of emerging technologies. Currently with some focus on trying to better understand the challenge of quickly generating high frame-rate synthetic driving video (data) to train a better model, leading to a better safer semi-autonomus driving experience.
-- 🌱 Like many ppl, I am currently learning more about Generative AI, Tranformer Architecture, LLMs, world models, search and reinforcement learning and autonomous agents... as a start :smiley:
+- 🌱 Like many ppl, I am currently learning more about generative machine learning models, Tranformer Architecture including Dynamics Transformers and Koopman-based embeddings, LLMs, world models, search and reinforcement learning and autonomous agents... as a start :smiley:
 - 🌱 Standing on the shoulders of giants including commaai's work around their commavq dataset and project: "Training GPTs as a world model with large context size [1] and fast autoregressive predictive video generation" [2]
 - 💞️ I am looking to collaborate on any related projects.
 
